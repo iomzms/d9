@@ -17,7 +17,7 @@ vps="blangkon";
 #if [[ $vps = "zvur" ]]; then
 	#source="http://"
 #else
-	source="http://xhome.tech/debian7"
+	source="http:https://raw.githubusercontent.com/iomzms/d9/master"
 #fi
 
 log=/var/log/update-script.log
